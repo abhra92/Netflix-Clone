@@ -1,1 +1,1 @@
-[Netflix-Clone] (https://abhra92.github.io/Netflix-Clone/)
+https://netliflix2025.netlify.app/
